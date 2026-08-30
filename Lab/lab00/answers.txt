@@ -6,4 +6,6 @@
 6. ps
 7. kill
 8. diff
+9. ls -l
+
 
